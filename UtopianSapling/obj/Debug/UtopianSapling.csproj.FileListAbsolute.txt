@@ -1,0 +1,6 @@
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\UtopianSapling\bin\Debug\UtopianSapling.exe.config
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\UtopianSapling\obj\Debug\UtopianSapling.csprojResolveAssemblyReference.cache
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\UtopianSapling\bin\Debug\UtopianSapling.exe
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\UtopianSapling\bin\Debug\UtopianSapling.pdb
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\UtopianSapling\obj\Debug\UtopianSapling.exe
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\UtopianSapling\obj\Debug\UtopianSapling.pdb
