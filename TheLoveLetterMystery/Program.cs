@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Text;
 
 namespace TheLoveLetterMystery
 {
@@ -9,41 +10,31 @@ namespace TheLoveLetterMystery
         {
             int testCases = Convert.ToInt32(Console.ReadLine());
             int[] output = new int[testCases];
+            int count = 0;
             for (int i = 0; i < testCases; i++)
             {
                 string console_input = Console.ReadLine();
-                if (checkPalindrome(console_input))
-                    continue;
                 char[] input = console_input.ToCharArray();
-                int count = 0;
-                for (int j = input.Length - 1; j >= 0; j--)
+
+                int halfLength = (input.Length) / 2;
+                for (int j = 0; j < halfLength; j++)
                 {
-                    int currentCharCode = (int)input[j];
-                    for (int startChar = currentCharCode; startChar >= 97; startChar--)
+                    char left_letter = input[j];
+                    char right_letter = input[input.Length - 1 - j];
+                    if (left_letter != right_letter)
                     {
-                        input[j] = (char)startChar;
-                        if (checkPalindrome(new string(input)))
-                        {
-                            j = 0;//to break out of the outer for loop
-                            break;
-                        }
-                        else if (startChar != 97)
-                        {
-                            count++;
-                        }
+                        count += Math.Abs((int)right_letter - (int)left_letter);
                     }
                 }
                 output[i] = count;
+                count = 0;
             }
+
             foreach (int value in output)
             {
                 Console.WriteLine(value);
             }
-        }
-        private static bool checkPalindrome(string input)
-        {
-            char[] rev = input.Reverse<char>().ToArray<char>();
-            return input.Equals(new string(rev));
+            Console.ReadLine();
         }
     }
 }
