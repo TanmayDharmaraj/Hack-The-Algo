@@ -1,0 +1,6 @@
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\HalloweenParty\bin\Debug\HalloweenParty.exe.config
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\HalloweenParty\bin\Debug\HalloweenParty.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\HalloweenParty\bin\Debug\HalloweenParty.pdb
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\HalloweenParty\obj\Debug\HalloweenParty.csprojResolveAssemblyReference.cache
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\HalloweenParty\obj\Debug\HalloweenParty.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\HalloweenParty\obj\Debug\HalloweenParty.pdb
