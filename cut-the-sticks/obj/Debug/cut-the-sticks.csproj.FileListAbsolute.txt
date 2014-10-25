@@ -1,0 +1,6 @@
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\cut-the-sticks\bin\Debug\cut-the-sticks.exe.config
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\cut-the-sticks\bin\Debug\cut-the-sticks.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\cut-the-sticks\bin\Debug\cut-the-sticks.pdb
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\cut-the-sticks\obj\Debug\cut-the-sticks.csprojResolveAssemblyReference.cache
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\cut-the-sticks\obj\Debug\cut-the-sticks.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\cut-the-sticks\obj\Debug\cut-the-sticks.pdb
