@@ -1,0 +1,6 @@
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\TheLoveLetterMystery\bin\Debug\TheLoveLetterMystery.exe.config
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\TheLoveLetterMystery\bin\Debug\TheLoveLetterMystery.exe
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\TheLoveLetterMystery\bin\Debug\TheLoveLetterMystery.pdb
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\TheLoveLetterMystery\obj\Debug\TheLoveLetterMystery.csprojResolveAssemblyReference.cache
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\TheLoveLetterMystery\obj\Debug\TheLoveLetterMystery.exe
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\TheLoveLetterMystery\obj\Debug\TheLoveLetterMystery.pdb
