@@ -34,6 +34,7 @@ namespace TheLoveLetterMystery
             {
                 Console.WriteLine(value);
             }
+
             Console.ReadLine();
         }
     }
