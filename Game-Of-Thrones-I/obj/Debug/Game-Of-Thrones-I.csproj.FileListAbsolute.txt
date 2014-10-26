@@ -1,0 +1,6 @@
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\Game-Of-Thrones-I\bin\Debug\Game-Of-Thrones-I.exe.config
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\Game-Of-Thrones-I\bin\Debug\Game-Of-Thrones-I.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\Game-Of-Thrones-I\bin\Debug\Game-Of-Thrones-I.pdb
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\Game-Of-Thrones-I\obj\Debug\Game-Of-Thrones-I.csprojResolveAssemblyReference.cache
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\Game-Of-Thrones-I\obj\Debug\Game-Of-Thrones-I.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\Game-Of-Thrones-I\obj\Debug\Game-Of-Thrones-I.pdb
