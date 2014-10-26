@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalloweenParty", "Halloween
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cut-the-sticks", "cut-the-sticks\cut-the-sticks.csproj", "{B818FF0E-1A53-4916-BAC8-1B24C76AD584}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game-Of-Thrones-I", "Game-Of-Thrones-I\Game-Of-Thrones-I.csproj", "{00444F76-FBAB-49C2-A9C5-BE226D830433}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B818FF0E-1A53-4916-BAC8-1B24C76AD584}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B818FF0E-1A53-4916-BAC8-1B24C76AD584}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B818FF0E-1A53-4916-BAC8-1B24C76AD584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00444F76-FBAB-49C2-A9C5-BE226D830433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00444F76-FBAB-49C2-A9C5-BE226D830433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00444F76-FBAB-49C2-A9C5-BE226D830433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00444F76-FBAB-49C2-A9C5-BE226D830433}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
