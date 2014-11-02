@@ -1,6 +1,5 @@
 C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\Gem Stones\bin\Debug\Gem Stones.exe.config
 C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\Gem Stones\bin\Debug\Gem Stones.exe
 C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\Gem Stones\bin\Debug\Gem Stones.pdb
-C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\Gem Stones\obj\Debug\Gem Stones.csprojResolveAssemblyReference.cache
 C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\Gem Stones\obj\Debug\Gem Stones.exe
 C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Algos.Hackerrank\Gem Stones\obj\Debug\Gem Stones.pdb
